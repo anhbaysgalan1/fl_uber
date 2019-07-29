@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "887156881698",
+    "firebase_url": "https://flutter-e1378.firebaseio.com",
+    "project_id": "flutter-e1378",
+    "storage_bucket": "flutter-e1378.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887156881698:android:e0eb87e66f8d4b31",
+        "android_client_info": {
+          "package_name": "fluber.com.fl_uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887156881698-kqj73vj7fgsc1elah9t14pi7h4pk6b58.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fluber.com.fl_uber",
+            "certificate_hash": "c0e8136963b9fe9141385795ec1856b84c178b6f"
+          }
+        },
+        {
+          "client_id": "887156881698-dbm0vkr9ll5gkcnv61ibr0l3nf1nu0td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPuC1aGAsknrCFR_3KYFlSojocVUBihpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887156881698-dbm0vkr9ll5gkcnv61ibr0l3nf1nu0td.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
