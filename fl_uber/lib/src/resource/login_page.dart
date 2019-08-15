@@ -30,7 +30,7 @@ class _LoginPageState extends State<LoginPage> {
               SizedBox(
                 height: 140,
               ),
-              Image.asset("ic_car_green.png"),
+              Image.asset("assets/ic_car_green.png"),
               Padding(
                 padding: EdgeInsets.fromLTRB(0, 30, 0, 0),
                 child: Text(
@@ -54,7 +54,7 @@ class _LoginPageState extends State<LoginPage> {
                       labelText: "Email",
                       prefixIcon: Container(
                         width: 50,
-                        child: Image.asset("ic_email.png"),
+                        child: Image.asset("assets/ic_email.png"),
                       ),
                       border: OutlineInputBorder(
                           borderSide:
@@ -69,7 +69,7 @@ class _LoginPageState extends State<LoginPage> {
                     labelText: "Password",
                     prefixIcon: Container(
                       width: 50,
-                      child: Image.asset("ic_lock.png"),
+                      child: Image.asset("assets/ic_lock.png"),
                     ),
                     border: OutlineInputBorder(
                         borderSide:

@@ -10,7 +10,7 @@ class FireAuth {
         .createUserWithEmailAndPassword(email: email, password: pass)
         .then((user) {
       print("signUp: $user");
-      createUser(user.uid, name, phone, onSuccess, onRegisterErr);
+      createUser(user.user.uid, name, phone, onSuccess, onRegisterErr);
     }).catchError((error) {
       _onSignUpErr(error.code, onRegisterErr);
     });
